@@ -2,4 +2,4 @@
   
 Hefeweizen-2020_botsu.zip  
   
-WCSOC用に作ってボツになったNNUE標準型の評価関数。  
+  WCSOC用に作ってボツになったNNUE標準型の評価関数。  
