@@ -42,9 +42,16 @@ JKishi18gou_tttak_merge
 ├ JKishi18gou_HKPKSDG_learn_sse42.exe  
 │　 NNUEのHalfKP-KingSfety-DestinguishGolds型の評価関数用の学習用WindowsバイナリのSSE4.2版です。  
 │  
-└ JKishi18gou_HKPKSDG_sample.zip  
-　　 HalfKP-KingSfety-DestinguishGolds型の評価関数にKristallweizenから生成した教師局面約1億局面から学習させた  
-　　 サンプルです。  
+├ JKishi18gou_HKPKSDG_sample.zip  
+│　 HalfKP-KingSfety-DestinguishGolds型の評価関数にKristallweizenから生成した教師局面約1億局面から学習させた  
+│　 サンプルです。  
+│  
+JKishi18gou_m  
+└ JKishi18gou_m.zip  
+　　 mブランチビルドした標準NNUE用の実行バイナリと、水匠2とHefeweizen-2929を線形マージして作り上げた評価関数、  
+　　 tttakさんのいろいろ評価関数のmブランチを人造棋士18号にマージしたソースファイルの一式です。  
+　　 実行バイナリはmsys2-clangでビルドしているので、実行は高速だと思います。水匠2にもこれが使えます。  
+　　 評価関数もかなりイケてるはずです。  
   
   
 ボツ版については、https://github.com/Tama4649/Kristallweizen/ の実行バイナリを使用する場合は、そのままevalフォルダに  
