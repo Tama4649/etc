@@ -1,5 +1,3 @@
-#!/home/tama/.pyenv/shims/python
-
 # NNUEをいろいろいじる
 
 import io, sys
