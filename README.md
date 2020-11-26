@@ -112,6 +112,13 @@ tools
 │  48先生のブログ(https://bleu48.hatenablog.com/entry/2019/05/18/132808) を参考にして、自分なりにわかりやすく  
 │  まとめたつもりです。  
 │  
+├ hkp2hkpe9.py  
+│　HalfKP 256x2-32-32の評価関数をHalfKPE9の評価関数に変換するスクリプトです。Python3.6以降で動くと思います。  
+│　python3 hkp2hkpe9.py [HalfKPファイルパス] [HalfKPE9ファイルパス] で動きます。  
+│　(Windowsの場合は、python3 を py に置き換えて実行してください)  
+│　利きの9個分に、HalfKPの層をそのままコピーしていますので、HalfKPと同じ手を指すと思います。  
+│　せっかく作ってきた資産ですもの。有効に活用していきましょう！(o^-')b  
+│  
 temp  
 ├ JKishi18gou_n.zip  
 │　JKishi18gouにmブランチを取り込み方をちょっと変えたバージョンです。JKishi18gou_mよりは安定しています。  
