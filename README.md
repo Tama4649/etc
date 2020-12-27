@@ -142,7 +142,7 @@ tools
 │　・解けたらコマンドプロンプト画面に戻り、Enterキーを押す。  
 │　・ShogiGUI画面でCtrl+Vを押す。  
 │　・以下繰り返し  
-│
+│  
 temp  
 ├ JKishi18gou_n.zip  
 │　JKishi18gouにmブランチを取り込み方をちょっと変えたバージョンです。JKishi18gou_mよりは安定しています。  
