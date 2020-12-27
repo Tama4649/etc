@@ -133,8 +133,8 @@ tools
 │  
 │  ・コマンドプロンプトを開く  
 │　・cd /d (このスクリプトが保存されているフォルダパス)  
-│　・py -m pip install -U pip
-│　・py -m pip install pyperclip
+│　・py -m pip install -U pip  
+│　・py -m pip install pyperclip  
 │　・py copypaste.py [SFENファイル名]  
 │　・「Enterを押して！」と表示されるので、Enterキーを押す。  
 │　・「局面をコピーしたよ。ShogiGUIに貼ってね！」と表示されるので、ShogiGUIの画面でCtrl+Vを押す。  
