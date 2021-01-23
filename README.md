@@ -143,6 +143,11 @@ tools
 │　・ShogiGUI画面でCtrl+Vを押す。  
 │　・以下繰り返し  
 │  
+├  gensfen_tool.zip  
+│　指定したエンジンの対局からやねうら王用の教師局面を生成するスクリプトです。  
+│　Python3.6以降で動作すると思います。  
+│　詳しくはZIP内の「最初にお読みください.txt」をご覧ください。  
+│  
 temp  
 ├ JKishi18gou_n.zip  
 │　JKishi18gouにmブランチを取り込み方をちょっと変えたバージョンです。JKishi18gou_mよりは安定しています。  
